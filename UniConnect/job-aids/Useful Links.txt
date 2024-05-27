@@ -1,0 +1,4 @@
+https://studyopedia.com/php/run-first-php-program-xampp-server/#
+https://codewithbish.com/php-session-handling-a-complete-guide-with-examples/
+https://www.php.net/manual/en/reserved.variables.session.php
+https://www.computerhope.com/htmcolor.htm
